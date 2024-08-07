@@ -1,4 +1,4 @@
-# BugTracker MFC Application
+# PointsTracker MFC Application
 
 ## Introduction
 
