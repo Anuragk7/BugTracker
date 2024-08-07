@@ -1,0 +1,26 @@
+﻿  pch.cpp
+  BugTracks.cpp
+  BugTracksDoc.cpp
+  BugTracksView.cpp
+  ClassView.cpp
+D:\users\hp\source\repos\BugTracks\BugTracksDoc.cpp(82,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\users\hp\source\repos\BugTracks\BugTracksDoc.cpp(83,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\users\hp\source\repos\BugTracks\BugTracksView.cpp(71,11): warning C4244: 'initializing': conversion from 'INT_PTR' to 'int', possible loss of data
+D:\users\hp\source\repos\BugTracks\BugTracksView.cpp(80,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\users\hp\source\repos\BugTracks\BugTracksView.cpp(80,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\users\hp\source\repos\BugTracks\BugTracksView.cpp(82,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\users\hp\source\repos\BugTracks\BugTracksView.cpp(82,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\users\hp\source\repos\BugTracks\BugTracksView.cpp(101,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\users\hp\source\repos\BugTracks\BugTracksView.cpp(101,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\users\hp\source\repos\BugTracks\BugTracksView.cpp(103,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\users\hp\source\repos\BugTracks\BugTracksView.cpp(103,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  FileView.cpp
+  MainFrm.cpp
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+  ViewTree.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 634 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BugTracks.vcxproj -> D:\Users\hp\source\repos\BugTracks\x64\Release\BugTracks.exe
